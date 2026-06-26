@@ -3,7 +3,7 @@
 
 I'm a Java Backend Developer with 7+ years of experience building enterprise applications in the Insurance domain.
 
-## Worked With
+## 💼 Worked With
 - HCL
 - DXC
 - EPFO
@@ -19,7 +19,7 @@ I'm a Java Backend Developer with 7+ years of experience building enterprise app
 - 📍 India
 - 🌐 https://abhishekhartiwari.github.io/portfolio/
 
-## Tech Stack
+## 🔧 Tech Stack
 Java • Spring Boot • Spring MVC • Hibernate • JPA • REST API • MySQL • Oracle • DB2 • AWS • Git • Maven • Jenkins • Docker
 
 ## Certifications
@@ -28,13 +28,15 @@ Java • Spring Boot • Spring MVC • Hibernate • JPA • REST API • MySQL
 🏆 AWS Cloud Practitioner
 
 
-## Portfolio
+## 🌐 Portfolio
 🌐 https://abhishekhartiwari.github.io/portfolio/
 
 ## Connect With Me
 Gmail:
 abhishekhartiwari@gmail.com
+
 LinkedIn:
 https://www.linkedin.com/in/abhishekhartiwari/
+
 Portfolio:
 https://abhishekhartiwari.github.io/portfolio/

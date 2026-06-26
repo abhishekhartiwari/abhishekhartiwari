@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Abhishek Tiwari 👋
 
-<!--
-**abhishekhartiwari/abhishekhartiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Java Developer | Spring Boot | AWS Certified
 
-Here are some ideas to get you started:
+I'm a Java Backend Developer with 7+ years of experience building enterprise applications in the Insurance domain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Senior Technical Lead @ HCLTech
+- ☕ Java 8, 11, 17
+- 🌱 Spring Boot, Spring MVC, REST APIs
+- 🗄️ MySQL, Oracle, DB2
+- ☁️ AWS Certified
+- 🔧 Maven, Git, Jenkins
+- 🐳 Docker
+- 📍 India
+
+## Tech Stack
+
+Java • Spring Boot • Spring MVC • Hibernate • JPA • REST API • MySQL • Oracle • DB2 • AWS • Git • Maven • Jenkins • Docker
+
+## Certifications
+
+🏆 AWS Certified Developer – Associate
+
+## Portfolio
+
+🌐 https://abhishekhartiwari.github.io/portfolio/
+
+## Connect With Me
+Gmail:
+abhishekhartiwari@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/abhishekhartiwari/
+
+Portfolio:
+https://abhishekhartiwari.github.io/portfolio/

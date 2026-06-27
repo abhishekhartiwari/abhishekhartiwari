@@ -147,8 +147,6 @@ https://abhishekhartiwari.github.io/portfolio/
 [![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekhartiwari&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=abhishekhartiwari&label=Profile%20Views&color=0e75b6&style=flat)
-## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhishekhartiwari&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## ⚙️ Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,git,maven,github,jenkins,hibernate,postman,eclipse,vscode" />

@@ -136,7 +136,7 @@ https://abhishekhartiwari.github.io/portfolio/
 
 ---
 
----
+
 ## 📊 GitHub Stats
 ![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekhartiwari&show_icons=true&theme=github_dark&hide_border=true)
 ## 💻 Most Used Languages
@@ -153,7 +153,6 @@ https://abhishekhartiwari.github.io/portfolio/
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,git,maven,github,jenkins,hibernate,postman,eclipse,vscode" />
 </p>
----
 
 ## 💡 Quote
 

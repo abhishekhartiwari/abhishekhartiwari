@@ -16,23 +16,6 @@ I specialize in building scalable backend systems using **Java**, **Spring Boot*
 
 ---
 
-## 📊 GitHub Stats
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekhartiwari&show_icons=true&theme=github_dark&hide_border=true)
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhartiwari&layout=compact&theme=github_dark&hide_border=true)
-## 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekhartiwari&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-## 📈 Contribution Graph
-[![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekhartiwari&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=abhishekhartiwari&label=Profile%20Views&color=0e75b6&style=flat)
-## 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abhishekhartiwari&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-## ⚙️ Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,git,maven,github,jenkins,hibernate,postman,eclipse,vscode" />
-</p>
-
 ## 🚀 What I Work On
 
 - Enterprise Backend Development
@@ -151,6 +134,25 @@ https://github.com/abhishekhartiwari
 🌐 **Portfolio**
 https://abhishekhartiwari.github.io/portfolio/
 
+---
+
+---
+## 📊 GitHub Stats
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekhartiwari&show_icons=true&theme=github_dark&hide_border=true)
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhartiwari&layout=compact&theme=github_dark&hide_border=true)
+## 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishekhartiwari&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+## 📈 Contribution Graph
+[![Abhishek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekhartiwari&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=abhishekhartiwari&label=Profile%20Views&color=0e75b6&style=flat)
+## 🏆 GitHub Trophies
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abhishekhartiwari&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## ⚙️ Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,git,maven,github,jenkins,hibernate,postman,eclipse,vscode" />
+</p>
 ---
 
 ## 💡 Quote
